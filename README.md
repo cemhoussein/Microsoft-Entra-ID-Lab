@@ -48,6 +48,16 @@ Built a Microsoft Entra ID administration lab using the Microsoft Azure portal. 
 - Reviewed role assignment events and the activities associated with administrative changes.
 - Used audit logs to understand how directory changes are recorded and monitored.
 
+  ## Skills Demonstrated
+
+- Cloud identity and access management
+- User account administration
+- Security group and membership management
+- Role-based access control (RBAC)
+- Password reset administration
+- Authentication and MFA configuration
+- Audit logging and security monitoring
+
 ## Screenshots
 
 Screenshots showing user management, security groups, group memberships, administrative role assignments and audit log activities completed during the lab.
