@@ -1,1 +1,1 @@
-SCREENSHOTS SHOWING THE TASK COMPLETED DURING MY MICROSOFT ENTRA ID HOME LAB
+Screenshots show the task completed during my Microsoft Entra ID homelab.
